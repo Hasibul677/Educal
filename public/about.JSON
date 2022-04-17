@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Md Hasibul Hasan",
+      "speech": "When you look back on your life, don't have regrets. Believe in yourself, believe in your future, you will find your way.",
+      "position": "Web Developer",
+      "img": "https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/140456319_919624845445270_1441906216271823664_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHaDICFz4tn-qPklRsi4EJPTy_8CXwW9qNPL_wJfBb2owus4BiCLrSvVncgL_kauOLFIuinpJvFMc4iKRWRMb2L&_nc_ohc=rTySW6udDnAAX9cYZuk&tn=QO7SbGoR6yT50Wrg&_nc_ht=scontent.fdac90-1.fna&oh=692f0e5513887380d18f3a76e9cfb5c9&oe=617FEFCA"
+    },
+    {
+      "id": 2,
+      "name": "Nahid Ahamed",
+      "speech": "There is a fire burning inside you that is very powerful; it is waiting to burn bright. You are meant to do great things.",
+      "position": "Back-End Developer",
+      "img": "https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/191577717_305832597687463_4995962132414991476_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF0LYB6Nmlt3oe7YjIRRbMAyFxPY3YGHdPIXE9jdgYd0zG07sbWV8qoXNtuhrtqwHXgqHo38y18tpgnPKe4fz7Q&_nc_ohc=gSndC0OGZhwAX9Crt86&_nc_ht=scontent.fdac90-1.fna&oh=c8ed86d18f82be5fe42dd77d237c8f2b&oe=6181BB27"
+    },
+    {
+      "id": 3,
+      "name": "Raihan Kawsar",
+      "speech": "Following your dreams can be both terrifying and exciting.",
+      "position": "Dbug Developer",
+      "img": "https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/194323106_1128511987649961_1570292202848378086_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEo75MLeXynmEFcGB5fJWSkwlTxaK8BYwHCVPForwFjAcPsmMO1cz1pEyAiayQr9TXEBhbzPYgA9Pkq1DQveCzs&_nc_ohc=5CHc_4y3rMAAX8Lq-bh&tn=QO7SbGoR6yT50Wrg&_nc_ht=scontent.fdac90-1.fna&oh=264e40ebdc709a0d556611aae35b9352&oe=61810A9C"
+    },
+    {
+      "id": 4,
+      "name": "Tonni Akter",
+      "speech": "Most people master the obvious; you are creating something that wasn't there before. It's bold, it's beautiful, and it's you.",
+      "position": "UI Designer",
+      "img": "https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/241461498_570325831062246_7975132434383839020_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHSeGRwcjzPxqg9sB_Act93isiwloyLMdOKyLCWjIsx04Fv3QSQqIP7ji55uj7YuJepI6hZETuMxfH8LWUJDcHt&_nc_ohc=15VgCdOOQQkAX-csYmM&_nc_ht=scontent.fdac90-1.fna&oh=2df117fabe5e8f545418761684ed5d8a&oe=615EE0E2"
+    }
+  ]

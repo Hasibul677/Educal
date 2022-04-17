@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Web Development",
+      "fee": 5500,
+      "courseStart": "01-12-2022",
+      "endCourse": "01-04-2022",
+      "img": "https://images.unsplash.com/photo-1597239450996-ea7c2c564412?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+      "teacher": "Jhankar Mahbub Sir",
+      "discription": "Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network)"
+    },
+    {
+      "id": 2,
+      "name": "App Development",
+      "fee": 5000,
+      "courseStart": "01-05-2022",
+      "endCourse": "01-08-2022",
+      "img": "https://images.unsplash.com/photo-1563986768609-322da13575f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+      "teacher": "Anisul Islam",
+      "discription": "App Development refers to the creation of computer applications for use on mobile devices such as tablets, smartphones and smart watches"
+    },
+    {
+      "id": 3,
+      "name": "UI Design",
+      "fee": 4500,
+      "courseStart": "01-09-2022",
+      "endCourse": "01-01-2023",
+      "img": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHVpJTIwZGVzaWdufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "teacher": "Tonni Akter",
+      "discription": "User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style."
+    },
+    {
+      "id": 4,
+      "name": "Back-End",
+      "fee": 6000,
+      "courseStart": "01-02-2023",
+      "endCourse": "01-07-2023",
+      "img": "https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFja2VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "teacher": "Nahid Ahamad",
+      "discription": "In software engineering, the terms frontend and backend (or sometimes referred to as back end or back-end) refer to the separation of concerns between the presentation layer."
+    },
+    {
+      "id": 5,
+      "name": "JavaScript",
+      "fee": 6500,
+      "courseStart": "01-08-2023",
+      "endCourse": "01-12-2023",
+      "img": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "teacher": "Raihan Kawsar",
+      "discription": "JavaScript is the worlds most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn."
+    },
+    {
+      "id": 6,
+      "name": "HTML5",
+      "fee": 3000,
+      "courseStart": "01-01-2024",
+      "endCourse": "01-04-2024",
+      "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+      "teacher": "Nipa Islam",
+      "discription": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and last major HTML version that is a World."
+    },
+    {
+      "id": 7,
+      "name": "CSS3",
+      "fee": 3500,
+      "courseStart": "01-05-2024",
+      "endCourse": "01-09-2024",
+      "img": "https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+      "teacher": "Khademul Islam",
+      "discription": "CSS3 is the latest version of the CSS specification. CSS3 adds several new styling features and improvements to enhance the web presentation capabilities."
+    },
+    {
+      "id": 8,
+      "name": "BootStrap5",
+      "fee": 4000,
+      "courseStart": "01-10-2024",
+      "endCourse": "1-02-2025",
+      "img": "https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+      "teacher": "Md. Hasibul Hasan",
+      "discription": "Bootstrap 5 has officially landed! After three alphas, three betas, and several months of hard work, we are shipping the first stable release of ..."
+    },
+    {
+      "id": 9,
+      "name": "Tailwind",
+      "fee": 5000,
+      "courseStart": "15-10-2024",
+      "endCourse": "15-02-2025",
+      "img": "https://images.unsplash.com/photo-1590608897129-79da98d15969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+      "teacher": "Puja",
+      "discription": "Tailwind Create designs your content for you by transforming your photos into hundreds of high quality posts. Automated designs optimized for Instagram."
+    }
+  ]
